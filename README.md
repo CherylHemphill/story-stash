@@ -18,6 +18,7 @@ Story Stash is a web application that allows users to search for books, and save
 - **Authentication**: JWT
 
 ## Installation
+https://morning-castle-16728-d519cebbb82d.herokuapp.com/
 
 If you'd like to explore the code or even host a version for yourself, follow the instructions below:
 
@@ -35,7 +36,7 @@ If you'd like to explore the code or even host a version for yourself, follow th
 ## Usage
 
 - Search: Use the search bar to find books.
-- Save: Click the 'Save' button to add a - book to your reading list.
+- Save: Click the 'Save' button to add a book to your reading list.
 - Manage: Visit the 'My Books' page to view and manage your reading list.
 
 ## License
